@@ -1,6 +1,6 @@
 name: Red-Laboratorio
 version: 1.0.0
-summary: Red virtual aislada para prácticas de networking del Politécnico Internacional.
+summary: Red virtual para practicas de networking del Politecnico.
 infrastructure:
   type: bicep
   file: main.bicep
