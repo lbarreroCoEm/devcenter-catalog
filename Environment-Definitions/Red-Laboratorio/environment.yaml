@@ -1,0 +1,6 @@
+name: Red-Laboratorio
+version: 1.0.0
+summary: Red virtual para laboratorios
+infrastructure:
+  type: bicep
+  file: main.bicep
